@@ -1,0 +1,65 @@
+{
+    "CollectAgents2": {
+        "checkpoints": [
+            {
+                "steps": 21523,
+                "file_path": "results\\1202-test1\\CollectAgents2\\CollectAgents2-21523.onnx",
+                "reward": 1.0,
+                "creation_time": 1701465682.9728765,
+                "auxillary_file_paths": [
+                    "results\\1202-test1\\CollectAgents2\\CollectAgents2-21523.pt"
+                ]
+            },
+            {
+                "steps": 21534,
+                "file_path": "results\\1202-test1\\CollectAgents2\\CollectAgents2-21523.onnx",
+                "reward": 1.0,
+                "creation_time": 1701466769.7263858,
+                "auxillary_file_paths": [
+                    "results\\1202-test1\\CollectAgents2\\CollectAgents2-21523.pt"
+                ]
+            },
+            {
+                "steps": 23998,
+                "file_path": "results\\1202-test1\\CollectAgents2\\CollectAgents2-23998.onnx",
+                "reward": 1.0,
+                "creation_time": 1701467269.9693983,
+                "auxillary_file_paths": [
+                    "results\\1202-test1\\CollectAgents2\\CollectAgents2-23998.pt"
+                ]
+            },
+            {
+                "steps": 28419,
+                "file_path": "results\\1202-test1\\CollectAgents2\\CollectAgents2-28419.onnx",
+                "reward": 1.0,
+                "creation_time": 1701467415.9086535,
+                "auxillary_file_paths": [
+                    "results\\1202-test1\\CollectAgents2\\CollectAgents2-28419.pt"
+                ]
+            },
+            {
+                "steps": 30680,
+                "file_path": "results\\1202-test1\\CollectAgents2\\CollectAgents2-30680.onnx",
+                "reward": 1.0,
+                "creation_time": 1701467840.125929,
+                "auxillary_file_paths": [
+                    "results\\1202-test1\\CollectAgents2\\CollectAgents2-30680.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 30680,
+            "file_path": "results\\1202-test1\\CollectAgents2.onnx",
+            "reward": 1.0,
+            "creation_time": 1701467840.125929,
+            "auxillary_file_paths": [
+                "results\\1202-test1\\CollectAgents2\\CollectAgents2-30680.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.28.0",
+        "torch_version": "1.9.1+cu111"
+    }
+}

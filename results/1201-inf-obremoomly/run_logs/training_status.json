@@ -1,0 +1,47 @@
+{
+    "CollectAgents2": {
+        "checkpoints": [
+            {
+                "steps": 768,
+                "file_path": "results\\1201-inf-obremoomly\\CollectAgents2\\CollectAgents2-768.onnx",
+                "reward": null,
+                "creation_time": 1701396919.9704359,
+                "auxillary_file_paths": [
+                    "results\\1201-inf-obremoomly\\CollectAgents2\\CollectAgents2-768.pt"
+                ]
+            },
+            {
+                "steps": 4864,
+                "file_path": "results\\1201-inf-obremoomly\\CollectAgents2\\CollectAgents2-4864.onnx",
+                "reward": null,
+                "creation_time": 1701397163.5586138,
+                "auxillary_file_paths": [
+                    "results\\1201-inf-obremoomly\\CollectAgents2\\CollectAgents2-4864.pt"
+                ]
+            },
+            {
+                "steps": 14020,
+                "file_path": "results\\1201-inf-obremoomly\\CollectAgents2\\CollectAgents2-14020.onnx",
+                "reward": 1.0,
+                "creation_time": 1701397654.268656,
+                "auxillary_file_paths": [
+                    "results\\1201-inf-obremoomly\\CollectAgents2\\CollectAgents2-14020.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 14020,
+            "file_path": "results\\1201-inf-obremoomly\\CollectAgents2.onnx",
+            "reward": 1.0,
+            "creation_time": 1701397654.268656,
+            "auxillary_file_paths": [
+                "results\\1201-inf-obremoomly\\CollectAgents2\\CollectAgents2-14020.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.28.0",
+        "torch_version": "1.9.1+cu111"
+    }
+}

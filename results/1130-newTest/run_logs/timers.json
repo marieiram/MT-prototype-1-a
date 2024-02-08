@@ -1,0 +1,47 @@
+{
+    "name": "root",
+    "metadata": {
+        "timer_format_version": "0.1.0",
+        "start_time_seconds": "1701335525",
+        "python_version": "3.8.13 (default, Oct 19 2022, 22:38:03) [MSC v.1916 64 bit (AMD64)]",
+        "command_line_arguments": "\\\\?\\C:\\Users\\syspla\\Anaconda\\envs\\mlagents19\\Scripts\\mlagents-learn \\Users\\syspla\\1130-Mlagents-cnn\\config\\CollectAgents2.yaml --run-id=1130-newTest",
+        "mlagents_version": "0.28.0",
+        "mlagents_envs_version": "0.28.0",
+        "communication_protocol_version": "1.5.0",
+        "pytorch_version": "1.9.1+cu111",
+        "numpy_version": "1.20.0",
+        "end_time_seconds": "1701335553"
+    },
+    "total": 27.8433403,
+    "count": 1,
+    "self": 0.008431500000003922,
+    "children": {
+        "run_training.setup": {
+            "total": 0.07800490000000027,
+            "count": 1,
+            "self": 0.07800490000000027
+        },
+        "TrainerController.start_learning": {
+            "total": 27.756903899999998,
+            "count": 1,
+            "self": 0.00040939999999523025,
+            "children": {
+                "TrainerController._reset_env": {
+                    "total": 27.7564834,
+                    "count": 1,
+                    "self": 27.7564834
+                },
+                "trainer_threads": {
+                    "total": 1.0000000010279564e-06,
+                    "count": 1,
+                    "self": 1.0000000010279564e-06
+                },
+                "TrainerController._save_models": {
+                    "total": 1.0100000000790033e-05,
+                    "count": 1,
+                    "self": 1.0100000000790033e-05
+                }
+            }
+        }
+    }
+}

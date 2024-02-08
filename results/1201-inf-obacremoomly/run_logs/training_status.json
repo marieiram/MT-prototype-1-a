@@ -1,0 +1,56 @@
+{
+    "CollectAgents2": {
+        "checkpoints": [
+            {
+                "steps": 2688,
+                "file_path": "results\\1201-inf-obacremoomly\\CollectAgents2\\CollectAgents2-2688.onnx",
+                "reward": null,
+                "creation_time": 1701397843.2898726,
+                "auxillary_file_paths": [
+                    "results\\1201-inf-obacremoomly\\CollectAgents2\\CollectAgents2-2688.pt"
+                ]
+            },
+            {
+                "steps": 35539,
+                "file_path": "results\\1201-inf-obacremoomly\\CollectAgents2\\CollectAgents2-35539.onnx",
+                "reward": 1.0,
+                "creation_time": 1701399586.8546455,
+                "auxillary_file_paths": [
+                    "results\\1201-inf-obacremoomly\\CollectAgents2\\CollectAgents2-35539.pt"
+                ]
+            },
+            {
+                "steps": 41484,
+                "file_path": "results\\1201-inf-obacremoomly\\CollectAgents2\\CollectAgents2-41484.onnx",
+                "reward": 1.0,
+                "creation_time": 1701401105.4945295,
+                "auxillary_file_paths": [
+                    "results\\1201-inf-obacremoomly\\CollectAgents2\\CollectAgents2-41484.pt"
+                ]
+            },
+            {
+                "steps": 69643,
+                "file_path": "results\\1201-inf-obacremoomly\\CollectAgents2\\CollectAgents2-69643.onnx",
+                "reward": 1.0,
+                "creation_time": 1701379907.5708973,
+                "auxillary_file_paths": [
+                    "results\\1201-inf-obacremoomly\\CollectAgents2\\CollectAgents2-69643.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 69643,
+            "file_path": "results\\1201-inf-obacremoomly\\CollectAgents2.onnx",
+            "reward": 1.0,
+            "creation_time": 1701379907.5708973,
+            "auxillary_file_paths": [
+                "results\\1201-inf-obacremoomly\\CollectAgents2\\CollectAgents2-69643.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.28.0",
+        "torch_version": "1.9.1+cu111"
+    }
+}

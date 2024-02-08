@@ -1,0 +1,29 @@
+{
+    "CollectAgent": {
+        "checkpoints": [
+            {
+                "steps": 0,
+                "file_path": "results\\collectagent-1114-1\\CollectAgent\\CollectAgent-0.onnx",
+                "reward": null,
+                "creation_time": 1699921760.1471086,
+                "auxillary_file_paths": [
+                    "results\\collectagent-1114-1\\CollectAgent\\CollectAgent-0.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 0,
+            "file_path": "results\\collectagent-1114-1\\CollectAgent.onnx",
+            "reward": null,
+            "creation_time": 1699921760.1471086,
+            "auxillary_file_paths": [
+                "results\\collectagent-1114-1\\CollectAgent\\CollectAgent-0.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.28.0",
+        "torch_version": "1.9.1+cu111"
+    }
+}
